@@ -1,3 +1,12 @@
+# 오픈 라이브러리 기여
+
+## [커밋 내용 바로가기](https://github.com/Falcon5077/UnityLibrary/commit/d4eeaeb201b8bd99342656dfe17b7f23a373afc8)
+
+## [이슈 대화 내용](https://github.com/UnityCommunity/UnityLibrary/issues/61)
+
+<img width="40%" alt="image" src="https://github.com/Falcon5077/UnityLibrary/assets/32628758/19b3b28b-9c53-4d6b-bdc0-0d540c140654">
+
+
 # Unity Library
 
 :tada: Welcome to Unity Library :tada:
